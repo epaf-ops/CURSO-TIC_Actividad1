@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="2" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="Curso TIC Actividad Búsqueda de Información"></unicode>
+  <unicode value="Ejercicio Práctico de Biblioteca Digital"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addPagination"></string>
@@ -204,7 +204,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1725"></int>
+                  <int value="1749"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -218,7 +218,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_113_2.50"></unicode>
+                <unicode value="0_113_2.56"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -227,11 +227,11 @@
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="logo_ues.jpg"></string>
+                  <string value="Desaarrollo_de_objetos.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp691abl\\logo_ues.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp60bmdc\\Desaarrollo_de_objetos.jpg"></string>
                   <string role="key" value="checksum"></string>
-                  <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
+                  <string value="eef728d649ddb1f4df15eecb19037d01"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -256,7 +256,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1743"></int>
+                  <int value="1752"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -270,7 +270,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_113_2.54"></unicode>
+                <unicode value="0_113_2.57"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="6">
                  <dictionary>
@@ -281,7 +281,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="estudiantes.gif"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpv9ttfq.eXe\\previews\\allyourbase\\estudiantes.gif"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp60bmdc\\estudiantes.gif"></string>
                   <string role="key" value="checksum"></string>
                   <string value="50089b7b60389313790ccd1f1d1d0259"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -308,7 +308,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1744"></int>
+                  <int value="1753"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -322,7 +322,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_113_2.55"></unicode>
+                <unicode value="0_113_2.58"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="7">
                  <dictionary>
@@ -331,11 +331,11 @@
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="Desaarrollo_de_objetos.jpg"></string>
+                  <string value="logo_ues.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpv9ttfq.eXe\\previews\\allyourbase\\Desaarrollo_de_objetos.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp60bmdc\\logo_ues.jpg"></string>
                   <string role="key" value="checksum"></string>
-                  <string value="eef728d649ddb1f4df15eecb19037d01"></string>
+                  <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -362,7 +362,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="56"></int>
+           <int value="59"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -689,7 +689,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1720"></int>
+                     <int value="1750"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -703,7 +703,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="23_110_2.8"></unicode>
+                   <unicode value="23_110_2.9"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
@@ -714,7 +714,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="diseno.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp691abl\\diseno.gif"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp60bmdc\\diseno.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="86d96d183d32cf99432b3d806b2a42fe"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -743,7 +743,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="9"></int>
+              <int value="10"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -857,7 +857,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="1747"></int>
+                    <int value="1751"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -871,7 +871,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="31_85.0"></unicode>
+                  <unicode value="31_85.2"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="17">
                    <dictionary>
@@ -882,7 +882,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="EJEMPLO_DE_RESULTADO_Actividad_1_Busquedas_en_la_WEB.pdf"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpv9ttfq.eXe\\previews\\allyourbase\\EJEMPLO_DE_RESULTADO_Actividad_1_Busquedas_en_la_WEB.pdf"></string>
+                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp60bmdc\\EJEMPLO_DE_RESULTADO_Actividad_1_Busquedas_en_la_WEB.pdf"></string>
                     <string role="key" value="checksum"></string>
                     <string value="577266b685e2753f25f5d2c7074ad23b"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -909,7 +909,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="1748"></int>
+                    <int value="1754"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -923,7 +923,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="31_85.1"></unicode>
+                  <unicode value="31_85.3"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="18">
                    <dictionary>
@@ -934,7 +934,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="Rubrica_de_Busqueda.pdf"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpv9ttfq.eXe\\previews\\allyourbase\\Rubrica_de_Busqueda.pdf"></string>
+                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp60bmdc\\Rubrica_de_Busqueda.pdf"></string>
                     <string role="key" value="checksum"></string>
                     <string value="b75f32117a6fddf0d0cbc526a8ae2a8c"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -963,7 +963,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="2"></int>
+             <int value="4"></int>
              <string role="key" value="parentNode"></string>
              <reference key="16"></reference>
             </dictionary>
@@ -1037,319 +1037,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="_templateFile"></string>
   <string value="Base"></string>
   <string role="key" value="anchor_nodes"></string>
-  <list>
-   <instance class="exe.engine.node.Node" reference="20">
-    <dictionary>
-     <string role="key" value="_title"></string>
-     <unicode value="Diseño Instruccional: Fase 1 Analizar"></unicode>
-     <string role="key" value="idevices"></string>
-     <list></list>
-     <string role="key" value="_id"></string>
-     <unicode value="11"></unicode>
-     <string role="key" value="_package"></string>
-     <none></none>
-     <string role="key" value="anchor_fields"></string>
-     <list></list>
-     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-     <int value="2"></int>
-     <string role="key" value="exportType"></string>
-     <string value="website"></string>
-     <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Informaci%C3%B3n%20acad%C3%A9mica%20en%20%20la%20WEB:Dise%C3%B1o%20Instruccional%3A%20Fase%201%20Analizar"></string>
-     <string role="key" value="parent"></string>
-     <none></none>
-     <string role="key" value="top_anchors_linked_from_fields"></string>
-     <list>
-      <reference key="11"></reference>
-     </list>
-     <string role="key" value="children"></string>
-     <list></list>
-    </dictionary>
-   </instance>
-   <instance class="exe.engine.node.Node">
-    <dictionary>
-     <string role="key" value="_title"></string>
-     <unicode value="Diseño Instruccional: Fase 2 Diseñar"></unicode>
-     <string role="key" value="idevices"></string>
-     <list></list>
-     <string role="key" value="_id"></string>
-     <unicode value="12"></unicode>
-     <string role="key" value="_package"></string>
-     <none></none>
-     <string role="key" value="anchor_fields"></string>
-     <list></list>
-     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-     <int value="2"></int>
-     <string role="key" value="exportType"></string>
-     <string value="website"></string>
-     <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Dise%C3%B1o%20de%20Objetos%20Virtuales%20de%20Aprendizaje%20%28OVA%29:Dise%C3%B1o%20Instruccional%3A%20Fase%202%20Dise%C3%B1ar"></string>
-     <string role="key" value="parent"></string>
-     <none></none>
-     <string role="key" value="top_anchors_linked_from_fields"></string>
-     <list>
-      <instance class="exe.engine.field.TextAreaField" reference="19">
-       <dictionary>
-        <string role="key" value="_id"></string>
-        <unicode value="116_2"></unicode>
-        <string role="key" value="_idevice"></string>
-        <instance class="exe.engine.jsidevice.JsIdevice">
-         <dictionary>
-          <string role="key" value="_title"></string>
-          <unicode value="Actividad 2. Diagrama Análisis de Contenido"></unicode>
-          <string role="key" value="_attributes"></string>
-          <list>
-           <tuple>
-            <string value="title"></string>
-            <list>
-             <string value="Title"></string>
-             <int value="0"></int>
-             <int value="0"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="category"></string>
-            <list>
-             <string value="Category"></string>
-             <int value="0"></int>
-             <int value="1"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="css-class"></string>
-            <list>
-             <string value="CSS class"></string>
-             <int value="0"></int>
-             <int value="2"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="icon"></string>
-            <list>
-             <string value="Icon"></string>
-             <int value="0"></int>
-             <int value="3"></int>
-            </list>
-           </tuple>
-          </list>
-          <string role="key" value="_author"></string>
-          <string value=""></string>
-          <string role="key" value="_iDeviceDir"></string>
-          <string value="pbl-tools"></string>
-          <string role="key" value="_purpose"></string>
-          <string value=""></string>
-          <string role="key" value="_tip"></string>
-          <string value=""></string>
-          <string role="key" value="_valid"></string>
-          <bool value="1"></bool>
-          <string role="key" value="class_"></string>
-          <unicode value="pbl"></unicode>
-          <string role="key" value="edit"></string>
-          <bool value="0"></bool>
-          <string role="key" value="emphasis"></string>
-          <int value="1"></int>
-          <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-          <int value="1"></int>
-          <string role="key" value="fields"></string>
-          <list>
-           <reference key="19"></reference>
-          </list>
-          <string role="key" value="icon"></string>
-          <unicode value="assignment_black"></unicode>
-          <string role="key" value="id"></string>
-          <unicode value="19"></unicode>
-          <string role="key" value="ideviceCategory"></string>
-          <unicode value="Text and Tasks"></unicode>
-          <string role="key" value="lastIdevice"></string>
-          <bool value="0"></bool>
-          <string role="key" value="nextFieldId"></string>
-          <int value="3"></int>
-          <string role="key" value="originalicon"></string>
-          <unicode value="activity"></unicode>
-          <string role="key" value="parentNode"></string>
-          <none></none>
-          <string role="key" value="systemResources"></string>
-          <list></list>
-          <string role="key" value="undo"></string>
-          <bool value="1"></bool>
-          <string role="key" value="userResources"></string>
-          <list></list>
-          <string role="key" value="version"></string>
-          <int value="0"></int>
-         </dictionary>
-        </instance>
-        <string role="key" value="_instruc"></string>
-        <string value=""></string>
-        <string role="key" value="_name"></string>
-        <string value=""></string>
-        <string role="key" value="anchor_names"></string>
-        <list></list>
-        <string role="key" value="anchors_linked_from_fields"></string>
-        <dictionary></dictionary>
-        <string role="key" value="content_w_resourcePaths"></string>
-        <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Determinar por medio de un diagrama, el contenido de posibles actividades VIRTUALES a ser diseñadas &lt;/span&gt;&lt;a href=&quot;https://ues.mx/?p=especiales/ofertaeducativa/&amp;amp;cid=0&amp;amp;sid=3&amp;amp;smid=14&amp;amp;latder=0&amp;amp;params=tipopa=I&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;para su asignatura,&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;de forma que permita fortalecer aún más el contenido para que el estudiante adquiera la competencia.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Para desarrollar el diagrama considere lo siguiente:&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;1.-&lt;/strong&gt; Seleccionar uno de los Elementos de Competencia de la Secuencia Didáctica de su asignatura. Con ello se pretende tener claro en relación a qué tema se diseñarán las nuevas actividades virtuales.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;2.-&lt;/strong&gt; Independiente de las actividades ya establecidas en ese Elemento de Competencia, identificar &lt;strong&gt;otras posibles actividades&lt;/strong&gt; para reforzar la competencia en los estudiantes. Considere que estas nuevas actividades se llevarán a cabo totalmente en un ambiente virtual. Haga un listado de ellas. &lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Para facilitar la identificación de posibles actividades:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Identifique competencias laborales que los estudiantes deben aprender o mejorar.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;o Identifique conocimientos y habilidades que deben desarrollar o reforzar.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Crear escenarios basados en casos de contextos laborales realistas.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;3.-&lt;/strong&gt; Para afinar el bosquejo, clasificar ese listado de nuevas actividades de aprendizaje, según el tipo de contenido que representará cada una de ellas:&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img src=&quot;resources/Tipo_de_Contenido.png&quot; alt=&quot;&quot; width=&quot;764&quot; height=&quot;276&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;4.-&lt;/strong&gt; Del listado que ha generado, seleccione &lt;strong&gt;solamente una actividad&lt;/strong&gt; cuyo contenido de aprendizaje sea preferentemente del tipo Principios (Pautas), es decir, que la actividad a realizar oriente al estudiante a tomar decisiones. Y analice más específicamente, cuál podría ser el contenido total para esa actividad. El contenido debe ser preciso y pertinente de forma que le permita definir las estrategias de enseñanza y medios para desarrollarla como una actividad pedagógica.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;5.-&lt;/strong&gt; Para esa actividad seleccionada, describir su contenido en forma de&lt;/span&gt; &lt;a href=&quot;#t380b6979-52ce-c93d-4a58-a5e34b4ef809&quot; id=&quot;link380b6979-52ce-c93d-4a58-a5e34b4ef809&quot; class=&quot;exe-tooltip definition-tt&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;directrices&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt; a&lt;span style=&quot;color: #000000;&quot;&gt; aplicar por el estudiante para esa tarea o adquisición de conocimientos y habilidades. Adicional a las directrices, tomar en cuenta l&lt;span style=&quot;text-align: left;&quot;&gt;os conocimientos y habilidades que deben tener los alumnos para el logro de cada una de ellas.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Las directrices y los elementos de conocimientos asociados, compondrán finalmente parte de la descripción de la actividad. La información que se plasme en este diagrama, es indispensable para trabajar con la siguiente fase de diseño. Por lo que, se sugiere realizar un diagrama de datos (verificar material de apoyo &lt;em&gt;Ejemplo de Análisis&lt;/em&gt;) que contenga:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;&lt;strong&gt;ELEMENTO DE COMPETENCIA&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Descripción del conocimiento&lt;span style=&quot;font-size: 10pt;&quot;&gt; o habilidad a aprender, desarrollar o reforzar.&lt;/span&gt;     &lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Directrices.     &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Conocimientos necesarios.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;6.-&lt;/strong&gt; Una vez desarrollado el análisis, conserve la evidencia porque será el recurso básico para la&lt;/span&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt; Fase 2 Diseñar del Modelo ADDIE&lt;/strong&gt;&lt;/span&gt;. Este análisis se entregará junto con la evidencia que se genere en la &lt;strong&gt;Actividad 3.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div id=&quot;t380b6979-52ce-c93d-4a58-a5e34b4ef809&quot; class=&quot;exe-tooltip-text&quot;&gt;
-&lt;p&gt;Normas o instrucciones que deben seguir los estudiantes para lograr el aprendizaje.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img src=&quot;resources/siguiente.jpg&quot; alt=&quot;&quot; width=&quot;52&quot; height=&quot;53&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
-        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-        <int value="4"></int>
-        <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-        <int value="3"></int>
-        <string role="key" value="htmlTag"></string>
-        <string value="div"></string>
-        <string role="key" value="images"></string>
-        <instance class="exe.engine.galleryidevice.GalleryImages">
-         <dictionary>
-          <string role="key" value=".listitems"></string>
-          <list>
-           <instance class="exe.engine.galleryidevice.GalleryImage">
-            <dictionary>
-             <string role="key" value="_caption"></string>
-             <instance class="exe.engine.field.TextField">
-              <dictionary>
-               <string role="key" value="_id"></string>
-               <int value="1735"></int>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_instruc"></string>
-               <string value=""></string>
-               <string role="key" value="_name"></string>
-               <string value=""></string>
-               <string role="key" value="content"></string>
-               <string value=""></string>
-               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-               <int value="4"></int>
-              </dictionary>
-             </instance>
-             <string role="key" value="_id"></string>
-             <unicode value="19_116_2.21"></unicode>
-             <string role="key" value="_imageResource"></string>
-             <instance class="exe.engine.resource.Resource">
-              <dictionary>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_package"></string>
-               <none></none>
-               <string role="key" value="_storageName"></string>
-               <string value="siguiente.jpg"></string>
-               <string role="key" value="_userName"></string>
-               <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp691abl\\siguiente.jpg"></string>
-               <string role="key" value="checksum"></string>
-               <string value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
-               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="warningMsg"></string>
-               <string value=""></string>
-              </dictionary>
-             </instance>
-             <string role="key" value="_parent"></string>
-             <reference key="19"></reference>
-             <string role="key" value="_thumbnailResource"></string>
-             <none></none>
-             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="makeThumbnail"></string>
-             <bool value="0"></bool>
-            </dictionary>
-           </instance>
-           <instance class="exe.engine.galleryidevice.GalleryImage">
-            <dictionary>
-             <string role="key" value="_caption"></string>
-             <instance class="exe.engine.field.TextField">
-              <dictionary>
-               <string role="key" value="_id"></string>
-               <int value="1738"></int>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_instruc"></string>
-               <string value=""></string>
-               <string role="key" value="_name"></string>
-               <string value=""></string>
-               <string role="key" value="content"></string>
-               <string value=""></string>
-               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-               <int value="4"></int>
-              </dictionary>
-             </instance>
-             <string role="key" value="_id"></string>
-             <unicode value="19_116_2.22"></unicode>
-             <string role="key" value="_imageResource"></string>
-             <instance class="exe.engine.resource.Resource">
-              <dictionary>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_package"></string>
-               <none></none>
-               <string role="key" value="_storageName"></string>
-               <string value="Tipo_de_Contenido.png"></string>
-               <string role="key" value="_userName"></string>
-               <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp691abl\\Tipo_de_Contenido.png"></string>
-               <string role="key" value="checksum"></string>
-               <string value="02e49c22cae6202ea839b46d287332eb"></string>
-               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="warningMsg"></string>
-               <string value=""></string>
-              </dictionary>
-             </instance>
-             <string role="key" value="_parent"></string>
-             <reference key="19"></reference>
-             <string role="key" value="_thumbnailResource"></string>
-             <none></none>
-             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="makeThumbnail"></string>
-             <bool value="0"></bool>
-            </dictionary>
-           </instance>
-          </list>
-          <string role="key" value="idevice"></string>
-          <reference key="19"></reference>
-         </dictionary>
-        </instance>
-        <string role="key" value="intlinks_to_anchors"></string>
-        <dictionary></dictionary>
-        <string role="key" value="nextImageId"></string>
-        <int value="23"></int>
-        <string role="key" value="parentNode"></string>
-        <reference key="20"></reference>
-       </dictionary>
-      </instance>
-     </list>
-     <string role="key" value="children"></string>
-     <list></list>
-    </dictionary>
-   </instance>
-  </list>
+  <list></list>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
@@ -1384,7 +1072,7 @@ text through the text editing buttons associated with the field."></unicode>
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="Curso TIC Actividad Búsqueda de Información"></unicode>
+    <unicode value="Ejercicio Práctico de Biblioteca Digital"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -1670,7 +1358,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Curso TIC Actividad B\xc3\xbasqueda de Informaci\xc3\xb3n"></string>
+           <string value="Ejercicio Pr\xc3\xa1ctico de Biblioteca Digital"></string>
           </dictionary>
          </instance>
         </list>
@@ -2231,7 +1919,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Curso TIC Actividad B\xc3\xbasqueda de Informaci\xc3\xb3n"></string>
+           <string value="Ejercicio Pr\xc3\xa1ctico de Biblioteca Digital"></string>
           </dictionary>
          </instance>
         </list>
@@ -2605,7 +2293,7 @@ text through the text editing buttons associated with the field."></unicode>
    </list>
    <string role="key" value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
    <list>
-    <reference key="5"></reference>
+    <reference key="7"></reference>
    </list>
    <string role="key" value="86d96d183d32cf99432b3d806b2a42fe"></string>
    <list>
@@ -2617,7 +2305,7 @@ text through the text editing buttons associated with the field."></unicode>
    </list>
    <string role="key" value="eef728d649ddb1f4df15eecb19037d01"></string>
    <list>
-    <reference key="7"></reference>
+    <reference key="5"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
