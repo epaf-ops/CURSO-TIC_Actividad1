@@ -192,7 +192,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1764"></int>
+                  <int value="1770"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -206,7 +206,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="1_114_2.0"></unicode>
+                <unicode value="1_114_2.1"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -217,7 +217,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Guia_para_actividad.PNG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjhlqqx.eXe\\previews\\allyourbase\\Guia_para_actividad.PNG"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpyuggy6\\Guia_para_actividad.PNG"></string>
                   <string role="key" value="checksum"></string>
                   <string value="81e4a6f484e1c1d5f0ae8fe479d15590"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -246,7 +246,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="1"></int>
+           <int value="2"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -349,6 +349,8 @@
            <string value=""></string>
            <string role="key" value="anchor_names"></string>
            <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
            <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
@@ -380,7 +382,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1761"></int>
+                  <int value="1766"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -394,7 +396,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="32_108_2.0"></unicode>
+                <unicode value="32_108_2.4"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="8">
                  <dictionary>
@@ -405,7 +407,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Desaarrollo_de_objetos.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjhlqqx.eXe\\previews\\allyourbase\\Desaarrollo_de_objetos.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpyuggy6\\Desaarrollo_de_objetos.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="eef728d649ddb1f4df15eecb19037d01"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -432,7 +434,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1762"></int>
+                  <int value="1769"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -446,7 +448,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="32_108_2.1"></unicode>
+                <unicode value="32_108_2.5"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="9">
                  <dictionary>
@@ -457,7 +459,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="estudiantes.gif"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjhlqqx.eXe\\previews\\allyourbase\\estudiantes.gif"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpyuggy6\\estudiantes.gif"></string>
                   <string role="key" value="checksum"></string>
                   <string value="50089b7b60389313790ccd1f1d1d0259"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -484,7 +486,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1765"></int>
+                  <int value="1771"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -498,7 +500,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="32_108_2.3"></unicode>
+                <unicode value="32_108_2.6"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="10">
                  <dictionary>
@@ -509,7 +511,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="logo_ues.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjhlqqx.eXe\\previews\\allyourbase\\logo_ues.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpyuggy6\\logo_ues.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -538,7 +540,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="4"></int>
+           <int value="7"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -675,19 +677,19 @@
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;img src=&quot;resources/diseno.gif&quot; alt=&quot;&quot; width=&quot;571&quot; height=&quot;428&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Para la realización de esta actividad deberás considerar en forma individual &lt;strong&gt;&lt;span style=&quot;color: #800000;&quot;&gt;un&lt;/span&gt; &lt;span style=&quot;color: #800000;&quot;&gt;tema relacionado con tu programa educativo&lt;/span&gt;&lt;/strong&gt; que te servirá de base para hacer una búsqueda de información en relación él.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt; color: #800000;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt; color: #800000;&quot;&gt;Consideraciones previas que debes conocer para la obtención de la información del tema seleccionado:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif; color: #000000;&quot;&gt;Buscar de manera individual información académica en la WEB utilizando Bases de datos, Bibliotecas virtuales, Repositorios, Buscadores generales o Buscadores especializados; para identificar una colección de objetos digitales de buena calidad que ponen a su disposición material académico relevante y confiable, para su formación y para acrecentar su acervo cultural.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 18pt; color: #000000;&quot;&gt;INSTRUCCIONES&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 8.5pt; font-family: helvetica, arial, sans-serif; color: black;&quot;&gt;&lt;span style=&quot;font-size: 18pt; color: #000000;&quot;&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;strong&gt;1.&lt;/strong&gt; Para &lt;span style=&quot;font-size: 18pt;&quot;&gt;la realización de esta actividad deberán primeramente seleccionar en forma individual, &lt;/span&gt;&lt;/span&gt;un tema de investigación para la búsqueda, el cual &lt;span style=&quot;color: #993300;&quot;&gt;debe estar relacionado totalmente con su programa educativo. &lt;span style=&quot;color: #000000;&quot;&gt;Para una adecuada selección &lt;span style=&quot;font-size: 18pt;&quot;&gt;del tema, deben hacer una &lt;/span&gt;&lt;/span&gt;&lt;a href=&quot;http://www.duoc.cl/biblioteca/crai/como-formular-una-necesidad-de-informacion&quot; style=&quot;font-size: 18pt;&quot;&gt;Formulación de las necesidades de información&lt;/a&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 8.5pt; font-family: helvetica, arial, sans-serif; color: black;&quot;&gt;&lt;span style=&quot;font-size: 18pt; color: #000000;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #993300;&quot;&gt;2.&lt;/span&gt;&lt;/strong&gt; Posterior a ello, localizar 5 aportaciones académicas sobre el tema. Las fuentes de información deben ser: 2 Artículos, 1 Libro, 1 Tesis y 1 Página web. Y deberán cumplir con los siguientes criterios:&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ul style=&quot;text-align: justify;&quot;&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Deberán ser &lt;strong&gt;5 aportaciones de diferentes fuentes de información&lt;/strong&gt;: 2 Artículos, 1 Libro, 1 Tesis y 1 Página web.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Deben haberse publicado en los últimos &lt;strong&gt;5 años&lt;/strong&gt;.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Una de las aportaciones deberá estar en idioma inglés.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Deben ser obtenidos de &lt;strong&gt;diferentes bibliotecas digitales o buscadores especializados&lt;/strong&gt;.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Una de las fuentes debe estar localizada en &lt;a href=&quot;https://drive.google.com/file/d/1NPWLTEOTWL510rXOZ5jT2oM0zIM9uCnb/view?usp=sharing&quot;&gt;eLibro&lt;/a&gt; de la &lt;a href=&quot;http://biblioteca.ues.mx/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Biblioteca Digital de UES.&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt; color: #000000;&quot;&gt;Deben haberse publicado en los últimos &lt;strong&gt;5 años&lt;/strong&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt; color: #000000;&quot;&gt;Una de las aportaciones deberá estar totalmente en idioma inglés.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Deben ser obtenidos&lt;/span&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 18pt; color: #000000;&quot;&gt;de diferentes Bases de datos, bibliotecas digitales, Repositorios o buscadores especializados. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Una de las fuentes debe estar localizada en&lt;/span&gt; &lt;a href=&quot;https://drive.google.com/file/d/1NPWLTEOTWL510rXOZ5jT2oM0zIM9uCnb/view?usp=sharing&quot;&gt;eLibro&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;de la&lt;/span&gt; &lt;a href=&quot;http://biblioteca.ues.mx/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Biblioteca Digital de UES.&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Para la preparación de la información, se recomienda seguir los siguientes pasos:&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;1.&lt;/strong&gt;&lt;/span&gt; &lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Selección del Tema de Búsqueda, por lo que debes hacer la &lt;/span&gt;&lt;a href=&quot;http://www.duoc.cl/biblioteca/crai/como-formular-una-necesidad-de-informacion&quot; style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Formulación de las necesidades de información&lt;/a&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;2. &lt;/strong&gt;&lt;/span&gt;Localizar las fuentes de información. Existe un gran número de &lt;strong&gt;bases de datos, buscadores especializados, revistas digitalizadas, bibliotecas digitales y páginas oficiales &lt;/strong&gt;que nos permiten la obtención de documentos fiables y de calidad. La mayor parte de las revistas científicas se encuentran agrupadas en portales electrónicos. El objetivo es integrar el mayor número posible de recursos, buscando en la medida de lo posible el acceso a textos completos. Te recomiendo leer &lt;em&gt;&lt;a href=&quot;https://destinadosaescribir.wordpress.com/2018/03/18/fuentes-buenas-y-fuentes-malas-en-internet/&quot;&gt;Fuentes «buenas» y fuentes «malas» en internet.&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Aquí tienes algunos ejemplos a tu disposición que puedes utilizar para tu búsqueda, adicional a éstos, podrás utilizar otros que sean fiables y de calidad:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Existe un gran número de &lt;strong&gt;bases de datos, buscadores especializados, revistas digitalizadas, bibliotecas digitales y páginas oficiales &lt;/strong&gt;que nos permiten la obtención de documentos fiables y de calidad. La mayor parte de las revistas científicas se encuentran agrupadas en portales electrónicos. El objetivo es integrar el mayor número posible de recursos, buscando en la medida de lo posible el acceso a textos completos. Les recomiendo leer &lt;em&gt;&lt;a href=&quot;https://destinadosaescribir.wordpress.com/2018/03/18/fuentes-buenas-y-fuentes-malas-en-internet/&quot;&gt;Fuentes «buenas» y fuentes «malas» en internet.&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Ingresen a los siguientes recursos especificados para realizar la búsqueda y podrán considerar otras Bibliotecas Digitales que sean fiables y de calidad académica:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://www.academia.edu/&quot; style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Academia.edu - Share research.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;http://biblioteca.ues.mx/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Biblioteca Digital de Universidad Estatal de Sonora&lt;/a&gt;. &lt;/span&gt;&lt;/li&gt;
@@ -702,11 +704,11 @@
 &lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;http://biblioteca.ajusco.upn.mx/web/bibliotecas-en-linea.php&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Universidad Pedagógica Nacional. Bibliotecas en Línea. &lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://worldwidescience.org/&quot;&gt;WorldWideScience&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;3. &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Para ubicar las fuentes de información, ejecutar una búsqueda efectiva ya sea de forma &lt;/span&gt;&lt;a href=&quot;http://www.duoc.cl/biblioteca/node/1235&quot; style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;simple&lt;/a&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt; -sencilla y rápida -(estrategias y técnicas) o &lt;/span&gt;&lt;a href=&quot;http://www.duoc.cl/biblioteca/node/1238&quot; style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Avanzada&lt;/a&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt; (filtros). De&lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt; los buscadores, el más utilizado es &lt;a href=&quot;https://scholar.google.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Google Académico&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;3. &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;Para ubicar las fuentes de información, ejecutar una búsqueda efectiva ya sea de forma &lt;/span&gt;&lt;a href=&quot;http://www.duoc.cl/biblioteca/node/1235&quot; style=&quot;font-size: 18pt;&quot;&gt;simple&lt;/a&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt; -sencilla y rápida -(estrategias y técnicas) o &lt;/span&gt;&lt;a href=&quot;http://www.duoc.cl/biblioteca/node/1238&quot; style=&quot;font-size: 18pt;&quot;&gt;Avanzada&lt;/a&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt; (filtros). De&lt;/span&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt; los buscadores, el más utilizado es &lt;a href=&quot;https://scholar.google.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Google Académico&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-media position-center&quot; style=&quot;width: 700px;&quot;&gt;&lt;iframe width=&quot;700&quot; height=&quot;525&quot; src=&quot;https://www.youtube.com/embed/mcY7axWpnFA&quot; allowfullscreen=&quot;allowfullscreen&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Centro de Formación Docente DuocUC&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Búsqueda de Información en Google Académico&lt;/em&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;4. &lt;/strong&gt;&lt;/span&gt;La información localizada debes evaluarla. Estos son algunos aspectos a considerar para evaluar la información:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;4.&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Evaluar las fuentes de información &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;l&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;ocalizadas&lt;/strong&gt; hasta encontrar aquellas que cumplan con los requisitos solicitados y que se hayan determinado como fiables y de calidad.&lt;/span&gt;&lt;/span&gt; Estos son algunos aspectos a considerar para evaluar la información:&lt;/span&gt;&lt;/p&gt;
 &lt;ul style=&quot;text-align: justify;&quot;&gt;
 &lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;¿El documento responde a tu necesidad de información? &lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;¿Trata del tema que necesitas? &lt;/span&gt;&lt;/li&gt;
@@ -715,8 +717,9 @@
 &lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;¿Cuántas veces ha sido citado el artículo o documento? &lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;¿Ha tenido alguna repercusión en el área investigada? &lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;5. &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Posterior a evaluar la información, describe la información de acuerdo al tipo de fuente académica en el &lt;a href=&quot;https://drive.google.com/file/d/1okRSvfDhK0qe-kNB2HA0g4Fj4cuMRRr-/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Formato de Presentación de Búsqueda,&lt;/a&gt; debes &lt;strong&gt;bajarlo primero a tu equipo&lt;/strong&gt;, No lo edites en línea. En este formato se incluye establecer los datos de las fuentes de información en Formato APA. Las &lt;a href=&quot;https://normas-apa.org/referencias/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Normas APA&lt;/a&gt; &lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;(así como las otras normas de estilo como Vancouver, ICONTEC, IEEE, etc.) están desarrolladas con el fin de estandarizar los textos académicos, a través de un conjunto de reglas editoriales. En en enlace &lt;a href=&quot;https://normas-apa.org/referencias/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Normas APA&lt;/a&gt; identifica cómo debes estructurar para un Libro, Artículo, Página Web, etc.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;6. &lt;/strong&gt;&lt;/span&gt;La evidencia deberás enviarla por medio de la Plataforma Educativa Institucional en el área correspondiente a la actividad. Para asegurarte que la evidencia contiene todo lo solicitado, verifica la Rúbrica de Evaluación y observa el Ejemplo.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;5. &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Posterior a evaluar la información&lt;/span&gt;, d&lt;/span&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: black;&quot;&gt;escribir los datos de las fuentes en la &lt;em&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://drive.google.com/file/d/1okRSvfDhK0qe-kNB2HA0g4Fj4cuMRRr-/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ficha Presentación de Búsqueda,&lt;/a&gt;&lt;/span&gt;&lt;/em&gt; de acuerdo al tipo que le corresponde (Libro, Artículo, Tesis o Página Web). Deben&lt;span style=&quot;font-size: 18pt;&quot;&gt; &lt;strong&gt;bajarla primero a su equipo&lt;/strong&gt;, No la editen en línea. &lt;/span&gt;Como parte de la información en la ficha deberán incluir la Referencia completa de cada fuente de información según &lt;/span&gt;&lt;a href=&quot;https://normas-apa.org/referencias/&quot;&gt;Formato APA&lt;/a&gt;&lt;span style=&quot;color: black;&quot;&gt;. El tipo de letra y otras características de formato del documento serán especificadas a criterio de cada estudiante.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: black;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;Las &lt;a href=&quot;https://normas-apa.org/referencias/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Normas APA&lt;/a&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;(así como las otras normas de estilo como Vancouver, ICONTEC, IEEE, etc.) están desarrolladas con el fin de estandarizar los textos académicos, a través de un conjunto de reglas editoriales. En el enlace &lt;a href=&quot;https://normas-apa.org/referencias/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Normas APA&lt;/a&gt; identifica cómo debes estructurar para un Libro, Artículo, Página Web, etc.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;6. &lt;/strong&gt;&lt;span style=&quot;font-size: 8.5pt; color: black;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;La Ficha completa será enviada como documento Word por medio de la Plataforma Educativa Institucional en el área correspondiente a la actividad, en la fecha establecida para tal efecto.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Para asegurarte que la evidencia contiene todo lo solicitado, verifica la &lt;strong&gt;Rúbrica de Evaluación y observa el Ejemplo.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -738,7 +741,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1756"></int>
+                     <int value="1767"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -752,7 +755,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="23_110_2.10"></unicode>
+                   <unicode value="23_110_2.11"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
@@ -763,7 +766,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="diseno.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4qt42p\\diseno.gif"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpyuggy6\\diseno.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="86d96d183d32cf99432b3d806b2a42fe"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -792,7 +795,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="11"></int>
+              <int value="12"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -906,7 +909,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="1757"></int>
+                    <int value="1768"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -920,7 +923,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="31_85.4"></unicode>
+                  <unicode value="31_85.6"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="18">
                    <dictionary>
@@ -931,7 +934,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="EJEMPLO_DE_RESULTADO_Actividad_1_Busquedas_en_la_WEB.pdf"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4qt42p\\EJEMPLO_DE_RESULTADO_Actividad_1_Busquedas_en_la_WEB.pdf"></string>
+                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpyuggy6\\EJEMPLO_DE_RESULTADO_Actividad_1_Busquedas_en_la_WEB.pdf"></string>
                     <string role="key" value="checksum"></string>
                     <string value="577266b685e2753f25f5d2c7074ad23b"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -958,7 +961,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="1760"></int>
+                    <int value="1772"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -972,7 +975,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="31_85.5"></unicode>
+                  <unicode value="31_85.7"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="19">
                    <dictionary>
@@ -983,7 +986,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="Rubrica_de_Busqueda.pdf"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4qt42p\\Rubrica_de_Busqueda.pdf"></string>
+                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpyuggy6\\Rubrica_de_Busqueda.pdf"></string>
                     <string role="key" value="checksum"></string>
                     <string value="b75f32117a6fddf0d0cbc526a8ae2a8c"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1012,7 +1015,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="6"></int>
+             <int value="8"></int>
              <string role="key" value="parentNode"></string>
              <reference key="17"></reference>
             </dictionary>
